@@ -63,7 +63,9 @@ nav>a:hover{
 
 ul{
     line-height: 2.5em;
+    padding: 5px;
     list-style: none;
+    column-count: 2;
 }
 
 .doodle{
@@ -71,6 +73,7 @@ ul{
     float: left;
     width: 180px;
     height: 80px;
+    padding-right: 5px;
 }
 picture{
     padding: 10px;

@@ -58,10 +58,10 @@ nav>a:hover{
 }
 
 ul{
-    line-height: 2.5em;
+    line-height: 1.5em;
     padding: 5px;
     list-style: none;
-    column-count: 2;
+    column-count: 3;
 }
 .doodle{
     
